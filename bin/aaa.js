@@ -1,3 +1,3 @@
-import { aaa } from "..";
+const aaa = require("../src/index").aaa;
 
 aaa();
